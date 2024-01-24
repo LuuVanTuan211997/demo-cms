@@ -29,7 +29,7 @@
         "illuminate/support": "^10.41",
         "jenssegers/blade": "^2.0",
         "monolog/monolog": "^2.8",
-        "php-di/php-di": "^6.4",
+        "php-di/php-di": "^7.0",
         "php-di/slim-bridge": "^3.4",
         "phpoption/phpoption": "^1.9",
         "slim/psr7": "^1.5",
