@@ -26,7 +26,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "illuminate/database": "^10.38",
-        "illuminate/support": "^10.41",
+        "illuminate/support": "^10.42",
         "jenssegers/blade": "^2.0",
         "monolog/monolog": "^2.8",
         "php-di/php-di": "^6.4",
